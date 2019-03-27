@@ -1,5 +1,5 @@
 # CA_project
-#I paste the post data as csv form 
+#I paste the post data as csv form (coursera.csv)
 #Cluster
 #first I found all findable result in fouraqure 20180201
 #then I found the distance in the foursqure 20180201
